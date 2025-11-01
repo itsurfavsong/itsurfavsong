@@ -1,11 +1,10 @@
 # About Me
-- Deagu, Republic of Korea
+- Seoul, Republic of Korea
 - chuntian93@yonsei.ac.kr
 
 🍀 Hello, I'm Bomi Song!
 
-I'm a **Full-stack Developer / Project Manager** passionate about  
-building responsive and engaging web applications.
+I'm a **Full-stack Developer** passionate about building responsive and engaging web applications.
 
 ---
 
@@ -21,10 +20,12 @@ building responsive and engaging web applications.
 - Chinese (Fluent)
 
 ---
+<!--
  📂 **Career**
 - [Your Company] — Project Manager (20XX.XX ~ current)
-- [Previous Experience if any]
-
 
 ✨ Check out my portfolio built with [React/Next.js/etc.](#)
+-->
 📬 Reach me at **chuntian93@yonsei.ac.kr**
+
+  
