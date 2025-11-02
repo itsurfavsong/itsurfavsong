@@ -1,3 +1,9 @@
+<div align=right>
+ 
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsurfavsong&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+
+</div>
+
 # 👋 Hi, I'm Bomi Song  
 **Junior Full-Stack Developer** | Based in Seoul, Korea 🇰🇷 | Open to opportunities in 🇬🇧 UK & 🇦🇺 Australia
 
@@ -40,12 +46,6 @@ Currently focused on **React**, **TypeScript**, and **Node.js**, with a strong i
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuntian93@yonsei.ac.kr)](mailto:chuntian93@yonsei.ac.kr)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/24500683cadc802992e0e77100f4cd87?source=copy_link)](https://www.notion.so/24500683cadc802992e0e77100f4cd87/)
 	
----
-<div align=right>
- 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fitsurfavsong&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
-
-</div>
 
 <!--
 - **[Project Name](https://github.com/yourusername/project2)**  
