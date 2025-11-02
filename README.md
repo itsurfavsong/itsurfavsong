@@ -22,7 +22,7 @@ Currently focused on **React**, **TypeScript**, and **Node.js**, with a strong i
 
 ### 💡 Continuous Learning
 
-- 🧾 **TIL (Today I Learned)** → [github.com/itsurfavsong/TIL](https://github.com/itsurfavsong/TIL)  
+- 🧾 **TIL (Today I Learned)** → [github.com/itsurfavsong/til](https://github.com/itsurfavsong/til)  
   A daily log of insights, code snippets, and notes from what I’ve been learning.  
 
 ---
