@@ -5,7 +5,7 @@
 </div>
 
 # 👋 Hi, I'm Bomi Song  
-**Junior Full-Stack Developer** | Based in Seoul, Korea 🇰🇷 | Open to opportunities in 🇬🇧 UK & 🇦🇺 Australia
+**Junior Full-Stack Developer** | Based in Seoul, Korea | Open to opportunities in UK & Australia
 
 I enjoy building small but thoughtful web apps and learning new tools every day.  
 Currently focused on **React**, **TypeScript**, and **Node.js**, with a strong interest in clean UI and product usability.
@@ -36,7 +36,7 @@ Currently focused on **React**, **TypeScript**, and **Node.js**, with a strong i
 ---
 
 ### 🌍 Languages
-🇰🇷 **Korean (Native)** • 🇬🇧 **English (Fluent)** • 🇨🇳 **Chinese (Fluent)**  
+ **Korean (Native)** • **English (Fluent)** • **Chinese (Fluent)**  
 
 
 ---
