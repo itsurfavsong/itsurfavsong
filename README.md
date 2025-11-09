@@ -14,7 +14,7 @@ Currently focused on **React**, **TypeScript**, and **Node.js**, with a strong i
 
 ### 🚀 Featured Projects
 
-- **[Real-time air quality service](https://github.com/yourusername/project1)**  
+- **[Real-time air quality service](https://github.com/itsurfavsong/project1)**  
   A responsive web app that provides real-time visualizations of fine dust levels and overall air quality. <br>
   [🔗 Live Demo](https://architects-mocha.vercel.app) | [🧠 Case Study on Notion](https://www.notion.so/279c0511827d80db86f4cc54e46c0245?source=copy_link)
 
