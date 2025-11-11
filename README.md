@@ -47,9 +47,8 @@ Currently focused on **React**, **TypeScript**, and **Node.js**, with a strong i
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" 
          alt="LinkedIn Badge" style="display:block;"/>
   </a>
-  <a href="mailto:chuntian93@yonsei.ac.kr" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white" 
-         alt="Gmail Badge" style="display:block;"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chuntian93@yonsei.ac.kr" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge" style="display:block;"/>
   </a>
   <a href="https://iodized-wilderness-bba.notion.site/Projects-2a600683cadc80c5bd73f16633f44c13?source=copy_link" 
      target="_blank" style="text-decoration:none;">
