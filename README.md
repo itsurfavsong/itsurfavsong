@@ -44,7 +44,7 @@ Currently focused on **React**, **TypeScript**, and **Node.js**, with a strong i
 ### 📬 Connect With Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsurfavsong/)](https://www.linkedin.com/in/itsurfavsong/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuntian93@yonsei.ac.kr)](mailto:chuntian93@yonsei.ac.kr)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/24500683cadc802992e0e77100f4cd87?source=copy_link)](https://www.notion.so/24500683cadc802992e0e77100f4cd87/)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/24500683cadc802992e0e77100f4cd87?source=copy_link)](https://iodized-wilderness-bba.notion.site/Projects-2a600683cadc80c5bd73f16633f44c13?source=copy_link)
 	
 
 <!--
