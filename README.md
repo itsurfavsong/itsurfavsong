@@ -42,11 +42,18 @@ Currently focused on **React**, **TypeScript**, and **Node.js**, with a strong i
 ---
 
 ### 📬 Connect With Me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsurfavsong/)](https://www.linkedin.com/in/itsurfavsong/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuntian93@yonsei.ac.kr)](mailto:chuntian93@yonsei.ac.kr)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/24500683cadc802992e0e77100f4cd87?source=copy_link)](https://iodized-wilderness-bba.notion.site/Projects-2a600683cadc80c5bd73f16633f44c13?source=copy_link)
+<div align="left">
+  <a href="https://www.linkedin.com/in/itsurfavsong/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:chuntian93@yonsei.ac.kr" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://iodized-wilderness-bba.notion.site/Projects-2a600683cadc80c5bd73f16633f44c13?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" alt="Notion Badge"/>
+  </a>
+</div>
 	
-
 <!--
 - **[Project Name](https://github.com/yourusername/project2)**  
   A short summary (e.g., “A full-stack task manager app built with Next.js and MongoDB.”)  
