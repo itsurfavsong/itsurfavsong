@@ -42,15 +42,19 @@ Currently focused on **React**, **TypeScript**, and **Node.js**, with a strong i
 ---
 
 ### 📬 Connect With Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/itsurfavsong/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div align="left" style="display:flex; justify-content:center; align-items:center; gap:6px; line-height:0;">
+  <a href="https://www.linkedin.com/in/itsurfavsong/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" 
+         alt="LinkedIn Badge" style="display:block;"/>
   </a>
-  <a href="mailto:chuntian93@yonsei.ac.kr" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="mailto:chuntian93@yonsei.ac.kr" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white" 
+         alt="Gmail Badge" style="display:block;"/>
   </a>
-  <a href="https://iodized-wilderness-bba.notion.site/Projects-2a600683cadc80c5bd73f16633f44c13?source=copy_link" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" alt="Notion Badge"/>
+  <a href="https://iodized-wilderness-bba.notion.site/Projects-2a600683cadc80c5bd73f16633f44c13?source=copy_link" 
+     target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" 
+         alt="Notion Badge" style="display:block;"/>
   </a>
 </div>
 	
